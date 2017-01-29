@@ -12,3 +12,6 @@ Instructions to run the site:
   
 Languages & Technology used:
 - Angular 2 with Typescript language
+
+Note:
+The nodejs & npm should be installed first.
