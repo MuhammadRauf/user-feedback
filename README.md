@@ -9,6 +9,11 @@ Instructions to run the site:
 Copy/Replace the source app, in the source having clone from
 https://github.com/angular/quickstart.git
 And follow instructions to run the code in the link just mentioned.
+Shortly, using terminal
+- rename quickstart user-feedback
+- cd user-feedback
+- npm install
+- npm start
   
 Languages & Technology used:
 - Angular 2 with Typescript language
