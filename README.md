@@ -6,9 +6,9 @@ The user can submit the feedback and immediately see on top of the page
 And the user can also see the topics summary. The summary shows no of posts submitted per topic.
 
 Instructions to run the site:
-- Execute the batch file setup.bat, which can be found within directory user-feedback
-- The batch file will create a new directory user-feedback within user-feedback,
-  So user-feedback\user-feedback\ will have the actual running site
+Copy/Replace the source app, in the source having clone from
+https://github.com/angular/quickstart.git
+And follow instructions to run the code in the link just mentioned.
   
 Languages & Technology used:
 - Angular 2 with Typescript language
